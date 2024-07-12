@@ -14,3 +14,5 @@ Teams are essentially just chromosomes that we can crossover and mutate to produ
 Do this enough times, and BAM! You find the best team.
 
 Current settings do 1 million battle simulations
+
+Also, Mewtwo is The Genetic Pokemon
